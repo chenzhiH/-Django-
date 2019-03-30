@@ -1,0 +1,31 @@
+published:
+  - app:
+      category: file
+      application: weather
+      name: 天气
+      public_data: 2019-03-18
+      url: /service/weather
+      desc: this is a weather app
+  - app:
+      category: file
+      application: stock
+      name: 股票
+      public_data: 2019-03-18
+      url: /service/shock
+      desc: this is a shock app
+  - app:
+      category: file
+      application: constellation
+      name: 星座运势
+      public_data: 2019-03-18
+      url: /service/constellations
+      desc: this is a constellations app
+  - app:
+      category: file
+      application: joke
+      name: 每日一笑
+      public_data: 2019-03-18
+      url: /service/joke
+      desc: this is a joke app
+developing:
+  - app:

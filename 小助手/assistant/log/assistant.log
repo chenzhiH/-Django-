@@ -1,0 +1,16 @@
+2019-03-29 21:29:16,051 INFO     D:/python¥˙¬Î/Django/assistant/ops/loggdem.py[line:10] hello my daniuniu
+2019-03-29 21:30:44,920 INFO     D:/python¥˙¬Î/Django/assistant/ops/loggdem.py[line:10] hello my daniuniu
+2019-03-29 21:45:38,100 INFO     D:/python‰ª£Á†Å/Django/assistant/ops/loggdem.py[line:10] hello my daniuniu
+2019-03-29 21:46:30,466 INFO     hello my daniuniu
+2019-03-29 21:46:43,706 [MainThread:2156]D:/python‰ª£Á†Å/Django/assistant/ops/loggdem.py :logdemo:10 INFO - hello my daniuniu
+2019-03-29 21:50:54,623 [MainThread:14024]D:/python‰ª£Á†Å/Django/assistant/ops/loggdem.py :logdemo:10 INFO - hello my daniuniu
+2019-03-29 21:53:34,376 [MainThread:12992]D:/python‰ª£Á†Å/Django/assistant/ops/loggdem.py :logdemo:10 INFO - hello my daniuniu
+2019-03-30 20:13:24,565 [MainThread:1864]D:/python‰ª£Á†Å/Django/assistant/ops/loggdem.py :logdemo:10 INFO - hello my daniuniu
+2019-03-30 20:46:54,402 [Thread-2:9108]C:\python\lib\site-packages\django\core\servers\basehttp.py :log_message:124 INFO - "GET /api/v1.0/service/menu HTTP/1.1" 200 759
+2019-03-30 20:47:31,666 [Thread-3:12584]C:\python\lib\site-packages\django\core\servers\basehttp.py :log_message:124 INFO - "GET /api/v1.0/service/constellation HTTP/1.1" 200 6621
+2019-03-30 20:47:47,326 [Thread-4:10120]C:\python\lib\site-packages\django\core\servers\basehttp.py :log_message:124 INFO - "GET /api/v1.0/service/constellation HTTP/1.1" 200 6621
+2019-03-30 20:48:02,718 [Thread-5:5724]C:\python\lib\site-packages\django\core\servers\basehttp.py :log_message:124 INFO - "POST /api/v1.0/auth/authorize HTTP/1.1" 200 45
+2019-03-30 20:48:06,429 [Thread-6:15528]C:\python\lib\site-packages\django\core\servers\basehttp.py :log_message:124 INFO - "GET /api/v1.0/auth/status HTTP/1.1" 200 70
+2019-03-30 20:48:06,502 [Thread-8:9664]C:\python\lib\site-packages\django\core\servers\basehttp.py :log_message:124 INFO - "GET /api/v1.0/service/constellation HTTP/1.1" 200 660
+2019-03-30 20:48:06,519 [Thread-9:6432]C:\python\lib\site-packages\django\core\servers\basehttp.py :log_message:124 INFO - "GET /api/v1.0/service/stock HTTP/1.1" 200 204
+2019-03-30 20:48:06,911 [Thread-7:13864]C:\python\lib\site-packages\django\core\servers\basehttp.py :log_message:124 INFO - "GET /api/v1.0/service/weather HTTP/1.1" 200 530
